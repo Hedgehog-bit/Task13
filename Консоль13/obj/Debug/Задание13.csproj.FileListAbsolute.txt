@@ -1,0 +1,6 @@
+C:\Users\egora\Desktop\Задание13\bin\Debug\Задание13.exe.config
+C:\Users\egora\Desktop\Задание13\bin\Debug\Задание13.exe
+C:\Users\egora\Desktop\Задание13\bin\Debug\Задание13.pdb
+C:\Users\egora\Desktop\Задание13\obj\Debug\Задание13.csprojAssemblyReference.cache
+C:\Users\egora\Desktop\Задание13\obj\Debug\Задание13.exe
+C:\Users\egora\Desktop\Задание13\obj\Debug\Задание13.pdb
