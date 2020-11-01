@@ -1,0 +1,19 @@
+C:\Users\User\Desktop\Парктика (Валя)\4 неделя\4_WF\11-12_WF\bin\Debug\11-12_WF.exe.config
+C:\Users\User\Desktop\Парктика (Валя)\4 неделя\4_WF\11-12_WF\bin\Debug\11-12_WF.exe
+C:\Users\User\Desktop\Парктика (Валя)\4 неделя\4_WF\11-12_WF\bin\Debug\11-12_WF.pdb
+C:\Users\User\Desktop\Парктика (Валя)\4 неделя\4_WF\11-12_WF\obj\Debug\11-12_WF.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Парктика (Валя)\4 неделя\4_WF\11-12_WF\obj\Debug\_11_12_WF.Form1.resources
+C:\Users\User\Desktop\Парктика (Валя)\4 неделя\4_WF\11-12_WF\obj\Debug\_11_12_WF.Properties.Resources.resources
+C:\Users\User\Desktop\Парктика (Валя)\4 неделя\4_WF\11-12_WF\obj\Debug\11-12_WF.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Парктика (Валя)\4 неделя\4_WF\11-12_WF\obj\Debug\11-12_WF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Парктика (Валя)\4 неделя\4_WF\11-12_WF\obj\Debug\11-12_WF.exe
+C:\Users\User\Desktop\Парктика (Валя)\4 неделя\4_WF\11-12_WF\obj\Debug\11-12_WF.pdb
+C:\Users\egora\Desktop\4 неделя\4_WF\11-12_WF\bin\Debug\11-12_WF.exe.config
+C:\Users\egora\Desktop\4 неделя\4_WF\11-12_WF\bin\Debug\11-12_WF.exe
+C:\Users\egora\Desktop\4 неделя\4_WF\11-12_WF\bin\Debug\11-12_WF.pdb
+C:\Users\egora\Desktop\4 неделя\4_WF\11-12_WF\obj\Debug\11-12_WF.csprojAssemblyReference.cache
+C:\Users\egora\Desktop\4 неделя\4_WF\11-12_WF\obj\Debug\_11_12_WF.Form1.resources
+C:\Users\egora\Desktop\4 неделя\4_WF\11-12_WF\obj\Debug\_11_12_WF.Properties.Resources.resources
+C:\Users\egora\Desktop\4 неделя\4_WF\11-12_WF\obj\Debug\11-12_WF.csproj.GenerateResource.cache
+C:\Users\egora\Desktop\4 неделя\4_WF\11-12_WF\obj\Debug\11-12_WF.exe
+C:\Users\egora\Desktop\4 неделя\4_WF\11-12_WF\obj\Debug\11-12_WF.pdb
